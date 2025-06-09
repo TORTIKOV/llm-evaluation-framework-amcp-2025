@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Output directories or files
+outputs/
+
+# SQLite databases
+*.sqlite3
+
+# Excel and text files
+*.xlsx
+*.xls
+*.txt
