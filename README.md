@@ -48,8 +48,8 @@ llm-evaluation-framework/
 ## ⚙️ Инициализация
 
 ```bash
-git clone https://github.com/your-username/benchmark-llms.git
-cd benchmark-llms
+git clone https://github.com/your-username/llm-evaluation-framework-amcp-2025.git
+cd llm-evaluation-framework-amcp-2025
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
